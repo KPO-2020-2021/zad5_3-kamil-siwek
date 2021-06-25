@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/kamil/zad5_3-kamil-siwek/build",
+  "command": "/usr/bin/c++   -I/home/kamil/zad5_3-kamil-siwek/build -I/home/kamil/zad5_3-kamil-siwek/include -I/home/kamil/zad5_3-kamil-siwek/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/engine.dir/src/example.cpp.o -c /home/kamil/zad5_3-kamil-siwek/src/example.cpp",
+  "file": "/home/kamil/zad5_3-kamil-siwek/src/example.cpp"
+},
+{
+  "directory": "/home/kamil/zad5_3-kamil-siwek/build",
+  "command": "/usr/bin/c++   -I/home/kamil/zad5_3-kamil-siwek/build -I/home/kamil/zad5_3-kamil-siwek/include -I/home/kamil/zad5_3-kamil-siwek/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/engine.dir/src/Bryla.cpp.o -c /home/kamil/zad5_3-kamil-siwek/src/Bryla.cpp",
+  "file": "/home/kamil/zad5_3-kamil-siwek/src/Bryla.cpp"
+},
+{
+  "directory": "/home/kamil/zad5_3-kamil-siwek/build",
+  "command": "/usr/bin/c++   -I/home/kamil/zad5_3-kamil-siwek/build -I/home/kamil/zad5_3-kamil-siwek/include -I/home/kamil/zad5_3-kamil-siwek/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/engine.dir/src/Dron.cpp.o -c /home/kamil/zad5_3-kamil-siwek/src/Dron.cpp",
+  "file": "/home/kamil/zad5_3-kamil-siwek/src/Dron.cpp"
+},
+{
+  "directory": "/home/kamil/zad5_3-kamil-siwek/build",
+  "command": "/usr/bin/c++   -I/home/kamil/zad5_3-kamil-siwek/build -I/home/kamil/zad5_3-kamil-siwek/include -I/home/kamil/zad5_3-kamil-siwek/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/engine.dir/src/Graniastoslup.cpp.o -c /home/kamil/zad5_3-kamil-siwek/src/Graniastoslup.cpp",
+  "file": "/home/kamil/zad5_3-kamil-siwek/src/Graniastoslup.cpp"
+},
+{
+  "directory": "/home/kamil/zad5_3-kamil-siwek/build",
+  "command": "/usr/bin/c++   -I/home/kamil/zad5_3-kamil-siwek/build -I/home/kamil/zad5_3-kamil-siwek/include -I/home/kamil/zad5_3-kamil-siwek/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/engine.dir/src/lacze_do_gnuplota.cpp.o -c /home/kamil/zad5_3-kamil-siwek/src/lacze_do_gnuplota.cpp",
+  "file": "/home/kamil/zad5_3-kamil-siwek/src/lacze_do_gnuplota.cpp"
+},
+{
+  "directory": "/home/kamil/zad5_3-kamil-siwek/build",
+  "command": "/usr/bin/c++   -I/home/kamil/zad5_3-kamil-siwek/build -I/home/kamil/zad5_3-kamil-siwek/include -I/home/kamil/zad5_3-kamil-siwek/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/engine.dir/src/Macierz3x3.cpp.o -c /home/kamil/zad5_3-kamil-siwek/src/Macierz3x3.cpp",
+  "file": "/home/kamil/zad5_3-kamil-siwek/src/Macierz3x3.cpp"
+},
+{
+  "directory": "/home/kamil/zad5_3-kamil-siwek/build",
+  "command": "/usr/bin/c++   -I/home/kamil/zad5_3-kamil-siwek/build -I/home/kamil/zad5_3-kamil-siwek/include -I/home/kamil/zad5_3-kamil-siwek/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/engine.dir/src/Prostopadloscian.cpp.o -c /home/kamil/zad5_3-kamil-siwek/src/Prostopadloscian.cpp",
+  "file": "/home/kamil/zad5_3-kamil-siwek/src/Prostopadloscian.cpp"
+},
+{
+  "directory": "/home/kamil/zad5_3-kamil-siwek/build",
+  "command": "/usr/bin/c++   -I/home/kamil/zad5_3-kamil-siwek/build -I/home/kamil/zad5_3-kamil-siwek/include -I/home/kamil/zad5_3-kamil-siwek/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/engine.dir/src/Wektor3D.cpp.o -c /home/kamil/zad5_3-kamil-siwek/src/Wektor3D.cpp",
+  "file": "/home/kamil/zad5_3-kamil-siwek/src/Wektor3D.cpp"
+},
+{
+  "directory": "/home/kamil/zad5_3-kamil-siwek/build",
+  "command": "/usr/bin/c++   -I/home/kamil/zad5_3-kamil-siwek/build -I/home/kamil/zad5_3-kamil-siwek/include -I/home/kamil/zad5_3-kamil-siwek/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/main.dir/app/main.cpp.o -c /home/kamil/zad5_3-kamil-siwek/app/main.cpp",
+  "file": "/home/kamil/zad5_3-kamil-siwek/app/main.cpp"
+},
+{
+  "directory": "/home/kamil/zad5_3-kamil-siwek/build/tests",
+  "command": "/usr/bin/c++   -I/home/kamil/zad5_3-kamil-siwek/build -I/home/kamil/zad5_3-kamil-siwek/include -I/home/kamil/zad5_3-kamil-siwek/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/main.cpp.o -c /home/kamil/zad5_3-kamil-siwek/tests/main.cpp",
+  "file": "/home/kamil/zad5_3-kamil-siwek/tests/main.cpp"
+},
+{
+  "directory": "/home/kamil/zad5_3-kamil-siwek/build/tests",
+  "command": "/usr/bin/c++   -I/home/kamil/zad5_3-kamil-siwek/build -I/home/kamil/zad5_3-kamil-siwek/include -I/home/kamil/zad5_3-kamil-siwek/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/dummy.cpp.o -c /home/kamil/zad5_3-kamil-siwek/tests/dummy.cpp",
+  "file": "/home/kamil/zad5_3-kamil-siwek/tests/dummy.cpp"
+}
+]
